@@ -2,3 +2,5 @@
 *.iml
 logs/*
 !logs/Main.log
+Test.html
+PHP.php
